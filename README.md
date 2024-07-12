@@ -24,6 +24,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-<img width="1440" alt="Screenshot 2024-05-25 at 10 44 36 PM" src="https://github.com/vishalmaurya1103/newsRoom/assets/133972322/312d7526-dd23-47b6-b4b4-cb47f8a312fc">
 
+<img width="1440" alt="news" src="https://github.com/user-attachments/assets/f847164f-06f3-4f4c-90bc-65cbf38a7205">
 
